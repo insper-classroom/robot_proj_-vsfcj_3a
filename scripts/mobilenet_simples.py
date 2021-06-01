@@ -30,7 +30,7 @@ CLASSES = ["background", "aeroplane", "bicycle", "bird", "boat",
 COLORS = np.random.uniform(0, 255, size=(len(CLASSES), 3))
 
 # load our serialized model from disk
-# print("[INFO] loading model...")
+print("[INFO] loading model...")
 net = cv2.dnn.readNetFromCaffe(proto, model)
 
 # load the input image and construct an input blob for the image
