@@ -12,6 +12,7 @@ import rospkg
 import os
 
 
+
 rospack = rospkg.RosPack()
 path = rospack.get_path('ros_projeto')
 scripts = os.path.join(path,  "scripts")

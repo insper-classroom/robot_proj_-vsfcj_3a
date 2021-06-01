@@ -539,6 +539,4 @@ if __name__=="__main__":
                             vel = Twist(Vector3(0.3,0,0), Vector3(0,0,-0.2))
                             
 
-                
-        rospy.sleep(0.1)
         velocidade_saida.publish(vel)

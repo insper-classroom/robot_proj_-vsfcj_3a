@@ -1,15 +1,13 @@
 # Base para Projeto 1 - Robótica 
 
-Nome do grupo: 
+Nome do grupo: VSFCJ
 
 ____________
 
 Nome dos integrantes: 
 
-* pessoa 1
-* pessoa 2
-* pessoa 3
-* pessoa 4
+* Guilherme Caproni de Faria
+* Ricardo Israel
 
 
 Visite sempre o enunciado abaixo para atualizacões: 
